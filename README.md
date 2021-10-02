@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <p align="center" color=#c36587 background-color=#332e39">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerajofficial&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
   </p>
+   <p align="center" color=#c36587 background-color=#332e39">
+    <img align="center" src="https://raw.githubusercontent.com/HackerajOfficial/MiniNepal/master/Report.html?token=ALCLDV7MV6JDUVQSJFOTRCTBLABVI" />
+  </p>
+</div>
 </div>
 
 
